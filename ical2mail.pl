@@ -9,12 +9,12 @@ use Encode;
 binmode(STDOUT, ":utf8");
 
 
-my $ICS_URL = 'http://groupware.fau.de/owa/calendar/RRZE_RS_Events@exch.fau.de/Kalender/calendar.ics';
+my $ICS_URL = 'http://somewhere/calendar.ics';
     # URL to ICS file
 my $RANGE_DAYS = 7;
     # Number of days from today, that are beeing looked for
-my $mailto = 'rrze-aktuelles@lists.fau.de';
-my $from = 'wolfgang.wiese@fau.de';
+my $mailto = 'your-mailing-list@adress';
+my $from = 'sender@adress';
 my $sendmail = '/usr/sbin/sendmail';
 my $subject = 'Terminhinweise ';
 my $TEXTINASCII = 1;
