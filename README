@@ -1,0 +1,19 @@
+ICS2Mail
+
+Perl-Skript mit dem von einer externen URL (ICS) ausgelesen und
+in einem mittels Templates definierten HTML- und Textformat an
+eine Mailadresse (z.B. Mailverteiler) gesendet werden kann.
+
+
+== Benotigte Perl Module ==
+
+DateTime
+Text::WrapI18N
+LWP::Simple
+
+
+== Lizenz ==
+
+GPL 2.0 
+
+
