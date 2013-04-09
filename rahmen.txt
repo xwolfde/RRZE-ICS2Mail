@@ -1,0 +1,26 @@
+Termine vom #rangestart-wochentag#, den #rangestart-day#. #rangestart-monatsname# bis #rangeend-wochentag#, den #rangeend-day#. #rangeend-monatsname#
+
+#events#
+
+
+Hinweis zum RRZE Veranstaltungskalender:
+Um auf Entwicklungen und Wünsche flexibel reagieren zu können, werden viele 
+Termine nur kurzfristig festgelegt.
+
+Der Veranstaltungskalender kann auch direkt im Browser aufgerufen und als 
+Bookmark gesichert werden oder mit einer internetfähiger Kalendersoftware 
+abonniert werden:
+* Blog: http://blogs.fau.de/rrze
+* HTML: http://groupware.fau.de/owa/calendar/RRZE_RS_Events@exch.fau.de/Kalender/calendar.html
+* ICS : http://groupware.fau.de/owa/calendar/RRZE_RS_Events@exch.fau.de/Kalender/calendar.ics
+
+
+Beachten Sie auch unser Schulungsangebot im Internet:
+    http://www.kurse.rrze.fau.de 
+
+
+Hinweise zur E-Mail: 
+Diese E-Mail wird in regelmäßigen Abständen automatisch erstellt und an die
+Liste rrze-aktuelles@lists.fau.de gesendet.
+Verantwortlicher Ansprechparter ist: Wolfgang Wiese, wolfgang.wiese@fau.de
+

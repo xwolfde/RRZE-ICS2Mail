@@ -1,0 +1,9 @@
+*#summary#*
+ (#dtstart-wochentag#, #dtstart-tag#. #dtstart-monatsname#, #dtstart-hour#:#dtstart-minute# Uhr)
+
+#description#
+
+Ort: #location#
+Zeit: #dtstart-wochentag#, #dtstart-tag#. #dtstart-monatsname#. #dtstart-hour#:#dtstart-minute# - #dtend-hour#:#dtend-minute# Uhr
+----------------------------------------------------------------------------
+
