@@ -10,6 +10,7 @@ eine Mailadresse (z.B. Mailverteiler) gesendet werden kann.
 DateTime
 Text::WrapI18N
 LWP::Simple
+iCal::Parser
 
 
 == Lizenz ==
